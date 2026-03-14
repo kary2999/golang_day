@@ -12,6 +12,7 @@
 | [Day 2 · 2026-03-12](./lessons/2026-03-12-day2.md) | 控制流（if / for / switch） |
 | [Day 3 · 2026-03-12](./lessons/2026-03-12-day3.md) | 函数 — 多返回值 & 错误处理 |
 | [Day 4 · 2026-03-13](./lessons/2026-03-13.md) | Struct 与方法 |
+| [Day 5 · 2026-03-14](./lessons/2026-03-14.md) | 接口（Interface） |
 
 ## 学习路线
 
